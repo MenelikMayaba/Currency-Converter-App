@@ -13,6 +13,8 @@ A simple Python-based Currency Converter app that uses real-time exchange rates 
 
 ---
 
+
+if module is not there python -m pip install requests
 ## 🚀 Demo
 
 ```bash
